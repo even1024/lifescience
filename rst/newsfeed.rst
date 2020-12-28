@@ -8,6 +8,36 @@ News
     release-notes/index
 
 
+Molecular structure search for ElasticSearch database
+-----------------------------------------------------
+
+*27 Dec 2020*
+
+Indigo 1.4.1 is released with ElasticSearch plugin for Java and Python. Following features available:
+
+.. raw:: html
+
+   <ul>
+   <li>Read molecules from SDF, Smiles, Mol, CML files, and write data into Elasticsearch database</li>
+   <li>Perform substructure and exact search allowing cloud efficiency features (horizontal scaling).</li>
+   <li>Search molecules efficiently with different similarity metrics (Tanimoto, Tversky, Euclid)</li>
+   <li>Filter additionally based on text or number fields attached to the records</li>
+   </ul>
+
+
+* |indigo_1_4_1_notes|
+
+* |indigo_1_4_1_downloads|
+
+.. |indigo_1_4_1_notes| raw:: html
+
+   <a href="indigo/release-notes/indigo-1.4.1.html" target="_blank">Release Notes</a>
+
+.. |indigo_1_4_1_downloads| raw:: html
+
+   <a href="download/indigo/index.html" target="_blank">Downloads</a>
+
+
 Ketcher 2.1.0 beta is now available
 -----------------------------------
 
