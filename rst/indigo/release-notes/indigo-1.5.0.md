@@ -10,13 +10,13 @@
 
 **New features and improvements**:
 
-* WASM support. See [[how to build]](https://github.com/epam/Indigo#how-to-build-indigo-wasm).
+* WASM support. See [how to build](https://github.com/epam/Indigo#how-to-build-indigo-wasm).
 * Implemented the internal json-based ketcher format [[feature]](https://github.com/epam/Indigo/issues/180).
 * Supported reactions for Ketcher format [[feature]](https://github.com/epam/Indigo/issues/396).
 * Ketcher format r-groups [[feature]](https://github.com/epam/Indigo/issues/307).
 * Selection support issues [[fix]](https://github.com/epam/Indigo/pull/353).
 * WASM memory issues [[fix]](https://github.com/epam/Indigo/pull/342).
-* Now Indigo uses CMake build system. See [[how to build]](https://github.com/epam/Indigo/blob/master/README.md#build-instruction)
+* Now Indigo uses CMake build system. See [how to build](https://github.com/epam/Indigo/blob/master/README.md#build-instruction)
 * .NET Indigo nuget error: Unable to load DLL 'indigo' [[fix]](https://github.com/epam/Indigo/issues/450).
 * Migrating to standard C++11 containers has started. Changed AutoPtr to [std::unique_ptr](https://github.com/epam/Indigo/issues/418) and [std::shared_ptr](https://github.com/epam/Indigo/issues/419).
 * Added the C++ unittests [[feature]](https://github.com/epam/Indigo/issues/403).
