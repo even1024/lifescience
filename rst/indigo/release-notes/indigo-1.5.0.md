@@ -18,7 +18,7 @@
 * WASM memory issues [[fix]](https://github.com/epam/Indigo/pull/342).
 * Now Indigo uses CMake build system.
 * .NET Indigo nuget error: Unable to load DLL 'indigo' [[fix]](https://github.com/epam/Indigo/issues/450).
-* Migrating to standard C++11 containers has started. [std::unique_ptr](https://github.com/epam/Indigo/issues/418) and [std::shared_ptr](https://github.com/epam/Indigo/issues/419).
+* Migrating to standard C++11 containers has started. Changed AutoPtr to [std::unique_ptr](https://github.com/epam/Indigo/issues/418) and [std::shared_ptr](https://github.com/epam/Indigo/issues/419).
 * Added the C++ unittests [[feature]](https://github.com/epam/Indigo/issues/403).
 * Refactored molecule check function and changed the result format [[improvement]](https://github.com/epam/Indigo/issues/390).
 * Bingo-mssql compilation issues [[fix]](https://github.com/epam/Indigo/issues/189).
@@ -38,5 +38,3 @@
 * CDX test failure [[fix]](https://github.com/epam/Indigo/pull/387).
 * Java API - native libs loading [[fix]](https://github.com/epam/Indigo/pull/261).
 * Added Bingo Elastic Java API [[feature]](https://github.com/epam/Indigo/pull/198).
-
-
