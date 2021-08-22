@@ -12,7 +12,7 @@
 
 * WASM support. See [how to build](https://github.com/epam/Indigo#how-to-build-indigo-wasm).
 * Now Indigo uses CMake build system. See [how to build](https://github.com/epam/Indigo/blob/master/README.md#build-instruction)
-* Implemented the internal json-based ketcher format [[feature]](https://github.com/epam/Indigo/issues/180).
+* Implemented the internal json-based Ketcher format [[feature]](https://github.com/epam/Indigo/issues/180).
 * Supported reactions for Ketcher format [[feature]](https://github.com/epam/Indigo/issues/396).
 * Ketcher format r-groups [[feature]](https://github.com/epam/Indigo/issues/307).
 * Selection support issues [[fix]](https://github.com/epam/Indigo/pull/353).
