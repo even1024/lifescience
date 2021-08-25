@@ -17,7 +17,7 @@
 * Now Indigo uses CMake build system. See [how to build](https://github.com/epam/Indigo/blob/master/README.md#build-instruction)
 * Implemented the internal json-based Ketcher format [[feature]](https://github.com/epam/Indigo/issues/180).
 
-     *This is an interchange format between Ketcher and Indigo based applications. 
+     *KET is an interchange format between Ketcher and Indigo based applications. 
      Currently it supports standard v2000 features, v3000 is partially supported.
      Also it has some Ketcher's extended features such as simple graphics.*
 
